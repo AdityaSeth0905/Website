@@ -1,0 +1,24 @@
+.Galleryslider{
+    width:90%;
+    height:500px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin: 20px auto;
+    border: 0;
+}
+#Galleryimages{
+    box-sizing: content-box;
+    width:20px;
+    height: 20px;
+    object-fit: contain;
+
+}
+body{
+    text-align: center;
+    font-family: monospace;
+    background-color: #03001C;
+    color: aliceblue;
+    
+}
+h2{
+    margin: 1cm 1cm 1cm 1cm;
+}
